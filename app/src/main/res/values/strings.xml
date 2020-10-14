@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionLayout</string>
+    <string name="click_me">Click me!</string>
+    <string name="click_me_again">Click me again!</string>
+</resources>
